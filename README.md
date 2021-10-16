@@ -1,4 +1,4 @@
-# trade_with_AI
+# trade_with_AI (Algorithmic trading)
 End to end flow for algorithmic trading with AI predictions.
 
 In this project..
